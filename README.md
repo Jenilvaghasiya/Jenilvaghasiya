@@ -18,7 +18,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php,firebase,github,nodejs,expressjs,canva,photoshop,lightroom&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php,firebase,github,nodejs,expressjs,photoshop&perline=5)](https://skillicons.dev)
 
 <p align = "center">
   
